@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RX8R108A99P" />
+          </Key>
+        </key>
+        <name value="samsung SM-A125M" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:9:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

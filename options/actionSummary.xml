@@ -1,0 +1,175 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="6" l="1700574869320" />
+    </e>
+    <e n="$Undo">
+      <i c="1" l="1700576240977" />
+    </e>
+    <e n="Adtui.ZoomInAction">
+      <i c="1" l="1700569263118" />
+    </e>
+    <e n="Android.DeviceManager">
+      <i c="4" l="1700567652693" />
+    </e>
+    <e n="Android.RunAndroidSdkManager">
+      <i c="1" l="1700151807719" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1700575523307" />
+    </e>
+    <e n="ConsoleView.ClearAll">
+      <i c="1" l="1700574202972" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="141" l="1700576568893" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="15" l="1700576555324" />
+    </e>
+    <e n="EditorCopy">
+      <i c="8" l="1700576575437" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1700575200375" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="24" l="1700577607655" />
+    </e>
+    <e n="EditorDown">
+      <i c="7" l="1700576433648" />
+    </e>
+    <e n="EditorEnter">
+      <i c="15" l="1700576439431" />
+    </e>
+    <e n="EditorLeft">
+      <i c="10" l="1700576434563" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="12" l="1700576475485" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1700576579961" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="9" l="1700575633049" />
+    </e>
+    <e n="EditorRight">
+      <i c="12" l="1700576475959" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1700575202932" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1700221447923" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1700576406743" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1700575634103" />
+    </e>
+    <e n="FileChooser.Delete">
+      <i c="2" l="1700567622219" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1700576110341" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1700576051078" />
+    </e>
+    <e n="NewProject">
+      <i c="4" l="1700577600518" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1700567617124" />
+    </e>
+    <e n="ProjectView.OpenInPreviewTab">
+      <i c="3" l="1700220316426" />
+    </e>
+    <e n="Run">
+      <i c="11" l="1700575811181" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1700575667109" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="5" l="1700221450888" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1700576424855" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1700221387494" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1700144829047" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="4" l="1700232276184" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1700144796242" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="1" l="1700144863191" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1700153727493" />
+    </e>
+    <e n="com.android.tools.adtui.actions.PanSurfaceAction">
+      <i c="4" l="1700572800554" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
+      <i c="2" l="1700566321472" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
+      <i c="1" l="1700574916385" />
+    </e>
+    <e n="com.android.tools.idea.configurations.DeviceMenuAction2">
+      <i c="1" l="1700572488939" />
+    </e>
+    <e n="com.android.tools.idea.configurations.TargetMenuAction">
+      <i c="3" l="1700566961962" />
+    </e>
+    <e n="com.android.tools.idea.configurations.TargetMenuAction$SetTargetAction">
+      <i c="4" l="1700566800530" />
+    </e>
+    <e n="com.android.tools.idea.configurations.TargetMenuAction$TogglePickBestAction">
+      <i c="1" l="1700566963709" />
+    </e>
+    <e n="com.android.tools.idea.run.deployment.SelectDeviceAction">
+      <i c="1" l="1700566813523" />
+    </e>
+    <e n="com.intellij.build.BuildTreeConsoleView$ConsoleViewHandler$2">
+      <i c="2" l="1700567739784" />
+    </e>
+    <e n="com.intellij.build.BuildTreeConsoleView$ScrollEditorToTheEndAction">
+      <i c="2" l="1700567738720" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeKeymapAction$2">
+      <i c="1" l="1700221436465" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1700221352633" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="2" l="1700221422530" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1700569596111" />
+    </e>
+    <e n="com.intellij.refactoring.actions.RenameElementAction">
+      <i c="1" l="1700575301432" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="8" l="1700576130983" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1700220289414" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1700146472719" />
+    </e>
+  </component>
+</application>

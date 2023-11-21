@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MeuPrimeiroProjeto">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MeuPrimeiroProjeto – activity_main.xml [MeuPrimeiroProjeto.app.main]" projectWorkspaceId="2YJ8RcM8Z15wY5Mnt1MhIjiDWyd">
+              <option name="activationTimestamp" value="1700566087228" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283141283" />
+              <frame x="-9" y="-9" width="1938" height="1098" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1700566091787" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Projeto1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Projeto1 – activity_main.xml [Projeto1.app.main]" opened="true" projectWorkspaceId="2YU4xU3w00LDzyHsbS9X253Rc25">
+              <option name="activationTimestamp" value="1700577517584" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283147165" />
+              <frame x="-9" y="-9" width="1938" height="1098" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1700568077735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Projeto2">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2YUQLUh5Oqqt0GDSn2k82USe5Of">
+              <option name="activationTimestamp" value="1700577627602" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283147165" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1700577622675" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/Projeto2" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>
